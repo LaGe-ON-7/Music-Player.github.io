@@ -1,0 +1,41 @@
+/* PC */
+@media (min-width: 64em) {
+
+}
+
+/* Mobile and Tablet */
+@media (max-width: 63.9375em) {
+    #main {
+        width: 765px;
+    }
+    
+    #main #container {
+        width: 765px;
+    }
+
+    #header .action {
+        width: 765px;
+    }
+    
+    .head {
+        width: 765px;
+    }
+    
+    .middle {
+        width: 300px;
+    }
+    
+    .list-songs {
+        margin-top: 730px;
+    }
+
+    .song-info {
+        margin-right: 150px;
+    }
+
+    .footer-icon {
+        padding: 12px 0 10px;
+        width: 765px;
+    }
+
+}
